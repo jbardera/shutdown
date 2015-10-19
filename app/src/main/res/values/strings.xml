@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shutdown</string>
+    <string name="string2">Cancel</string>
+    <string name="string3">Proceed</string>
+</resources>
